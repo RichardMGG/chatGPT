@@ -1,2 +1,2 @@
 # chatGPT
-gaaa
+chatbot con inteligencia artificial.
